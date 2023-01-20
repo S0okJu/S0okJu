@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <!--
 **D7MeKz/D7MeKz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
