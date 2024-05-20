@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D7MeKz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D7MeKz&layout=compact&exclude_repo=D7MeKz.github.io,Portscan.chosun.final)
 <!--
 **D7MeKz/D7MeKz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
