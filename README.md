@@ -2,18 +2,20 @@
 
 ### 🌱 I’m currently learning ...
 - Go
-- AWS
+- Cloud
 - Cloud Native Tools
 - DevOps Tools
 
 ### 📫 How to reach me ...
 - [Blog](https://github.com/D7MeKz)
 
+
 ### 👾 Projects
 |**Date**|**Project**|**Description**|**GitHub**|
 |:---:|:---:|:---:|:--:|
 |2023.9.2 ~ 2023.12.16|Ossistant| 범죄자 프로파일링을 위한 OSINT 도구 | [Github](https://github.com/ICHEaccount/Ossistant)|
 |2024.3.1 ~ | Todopoint | 할일을 체크하면 포인트를 얻는 Todo App | [App](https://github.com/D7MeKz/Todopoint-App) [Server](https://github.com/D7MeKz/TodoPoint-Server) [Infra](https://github.com/D7MeKz/Todopoint-Infra) |
+
 
 ### 🐈 My GitHub is ...
 
