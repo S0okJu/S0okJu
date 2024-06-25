@@ -7,7 +7,7 @@
 - DevOps Tools
 
 ### 📫 How to reach me ...
-- [Blog](https://github.com/D7MeKz)
+- [Blog](https://d7mekz.github.io/)
 
 
 ### 👾 Projects
