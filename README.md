@@ -1,4 +1,4 @@
-## Hello World, D7MeKz!
+## Hello World
 
 ### 🌱 I’m currently learning ...
 - Go
@@ -7,7 +7,7 @@
 - DevOps Tools
 
 ### 📫 How to reach me ...
-- [Blog](https://d7mekz.github.io/)
+- [Blog](https://s0okju.github.io/)
 
 
 ### 👾 Projects
