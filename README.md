@@ -6,10 +6,6 @@
 - Cloud Native Tools
 - DevOps Tools
 
-### 📫 How to reach me ...
-- [Blog](https://s0okju.github.io/)
-
-
 ### 👾 Projects
 |**Date**|**Project**|**Description**|**GitHub**|
 |:---:|:---:|:---:|:--:|
