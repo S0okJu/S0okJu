@@ -6,11 +6,6 @@
 - Cloud Native Tools
 - DevOps Tools
 
-### 👾 Projects
-|**Date**|**Project**|**Description**|**GitHub**|
-|:---:|:---:|:---:|:--:|
-|2023.9.2 ~ 2023.12.16|Ossistant| 범죄자 프로파일링을 위한 OSINT 도구 | [Github](https://github.com/ICHEaccount/Ossistant)|
-
 ### 🐈 My GitHub is ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0okju&layout=compact&exclude_repo=D7MeKz.github.io,Portscan.chosun.final&hide=Mustache,Smarty,html)
