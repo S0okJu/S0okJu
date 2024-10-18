@@ -8,6 +8,7 @@
   - Private Cloud(Openstack)
   - Public Cloud(NCP, AWS, GCP)
 - Golang
+- Kubernetes
 
 ### 💻 Side Projects
 
