@@ -1,27 +1,26 @@
-## Hello World
+### 👾 안녕하세요. 김다경입니다.
+- **사이드 프로젝트**를 통해 직접 구현하는 것을 좋아합니다.
+- 다양한 관점으로 문제를 파악하고 자신만의 결론을 도출하는 것을 좋아합니다. 
 
-### 🌱 I’m currently learning ...
-- Go
-- Cloud
-- Cloud Native Tools
-- DevOps Tools
+### 💻 Side Projects
 
-### 🐈 My GitHub is ...
+|프로젝트|설명|기간|
+|---|---|---|
+|[OpsAthlan](https://github.com/S0okJu/OpsAthlan)|시나리오 기반 개발, 배포, 운영 프로젝트 | 2024.09 ~ 현재 | 
+|[GoNetWorker](https://github.com/S0okJu/GoNetWorker)|Multihost 네트워크 기반 시뮬레이션 도구|2024.08 ~ 현재|
+|[TodoPoint](https://github.com/S0okJu/TodoPoint-Server)| 작업 완료 시 포인트를 주는 MSA 기반 할일 관리 서비스 | 2024.03 ~ 2024.08|
+
+### 👥 Team Projects
+
+|프로젝트|설명|기간|
+|---|---|---|
+|[OSSISTANT](https://github.com/ICHEaccount/Ossistant)|범죄자 프로파일링을 위한 분석 도구 |2023.09 ~ 2024.12 |
+|[Moarium](https://github.com/Moarium/Moarium)|동아리원 관리 애플리케이션| 2024.01 ~ 2024.02 | 
+
+### Activity
+- BoB(차세대 보안리더 양성 프로그램) 12기 디지털포렌식 트랙
+- 글또 10기
+
+### 🐈 My GitHub 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0okju&layout=compact&exclude_repo=D7MeKz.github.io,Portscan.chosun.final&hide=Mustache,Smarty,html)
-
-<!--
-**D7MeKz/D7MeKz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
