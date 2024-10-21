@@ -26,8 +26,8 @@
 
 |프로젝트|설명|기간|
 |---|---|---|
-|[OSSISTANT](https://github.com/ICHEaccount/Ossistant)|범죄자 프로파일링을 위한 분석 도구 |2023.09 ~ 2023.12 |
 |[Moarium](https://github.com/Moarium/Moarium)|고시원 인원 관리 애플리케이션| 2024.01 ~ 2024.02 | 
+|[OSSISTANT](https://github.com/ICHEaccount/Ossistant)|범죄자 프로파일링을 위한 분석 도구 |2023.09 ~ 2023.12 |
 
 ### 🐈 My GitHub 
 
