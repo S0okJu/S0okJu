@@ -20,7 +20,7 @@
 |---|---|---|
 |[OpsAthlan](https://github.com/S0okJu/OpsAthlan)|Openstack 환경에서 수행하는 시나리오 기반 개발, 배포, 운영 프로젝트 | 2024.09 ~ 현재 | 
 |[GoNetWorker](https://github.com/S0okJu/GoNetWorker)| 네트워크 기반 시뮬레이션 도구|2024.08 ~ 현재|
-|[TodoPoint](https://github.com/S0okJu/TodoPoint-Server)| 작업 완료 시 포인트를 주는 MSA 기반 할일 관리 서비스 | 2024.03 ~ 2024.08|
+|[TodoPoint](https://github.com/S0okJu/TodoPoint-Server)| 작업 완료 시 포인트를 주는 MSA 기반 할일 관리 서비스 | 2024.03 ~ 2024.06|
 
 ### 👥 Team Projects
 
