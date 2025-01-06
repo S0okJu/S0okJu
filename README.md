@@ -33,5 +33,5 @@ Hello world! 🥹
 -->
 ### 🐈 My GitHub 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0okju&layout=compact&exclude_repo=D7MeKz.github.io,Portscan.chosun.final&hide=Mustache,Smarty,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0okju&layout=compact&exclude_repo=S0okJu.github.io,Portscan.chosun.final&hide=Mustache,Smarty,html)
 
