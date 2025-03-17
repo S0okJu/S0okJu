@@ -22,7 +22,7 @@ Hello world! 🥹
 |---|---|---|
 |[TodoPoint](https://github.com/S0okJu/TodoPoint-Server)|MSA 기반 포인트 지급 Todo 서비스|2024.03 ~ 2024.05|
 |[GoNetWorker](https://github.com/S0okJu/GoNetWorker)| 네트워크 기반 시뮬레이션 도구|2024.08 ~ 현재|
-|[OpsAthlan](https://github.com/S0okJu/OpsAthlan)|Openstack 환경에서 수행하는 시나리오 기반 개발, 배포, 운영 프로젝트 | 2024.09 ~ 현재 | 
+|[OpsAthlan](https://github.com/S0okJu/OpsAthlan)<br>[OpsAthlan-app](https://github.com/S0okJu/OpsAthlan-apps)|Openstack 환경에서 수행하는 시나리오 기반 개발, 배포, 운영 프로젝트 | 2024.09 ~ 현재 | 
 
 
 ### 👥 Team Projects
