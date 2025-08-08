@@ -6,7 +6,7 @@
 
 ### Activities 
 - [BoB](https://www.kitribob.kr/) 12th Digital Forensics (2023 ~ 2024)
-- [Geultto](https://geultto.github.io/) 10th (2025 ~ )
+- [Geultto](https://geultto.github.io/) 10th (2024 ~ )
 - Maintainer of [python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server) (2025 ~ )
 - Contributor of [Kubernets website](https://github.com/kubernetes/website) (2025 ~ )
 
